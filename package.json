@@ -1,0 +1,18 @@
+{
+  "name": "@IModules/IUtils",
+  "version": "0.2.0",
+  "description": "format util methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "format"
+  ],
+  "devDependencies":{
+    "chai":"~3.5.0",
+    "ink-docstrap":"1.2.1"
+  },
+  "author": "Alan",
+  "license": "MIT"
+}
